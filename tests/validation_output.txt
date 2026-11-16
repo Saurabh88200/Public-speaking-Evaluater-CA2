@@ -1,0 +1,95 @@
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: No problems saved.
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: Problem ID to search: Problem not found.
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: Problem ID to update: Problem not found.
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: Invalid. Enter an integer from 0 to 4.
+Choice: Problem ID (1-9999): Invalid. Enter an integer from 1 to 9999.
+Problem ID (1-9999): Invalid. Enter an integer from 1 to 9999.
+Problem ID (1-9999): Invalid. Enter an integer from 1 to 9999.
+Problem ID (1-9999): Title (max 50 characters): Text cannot be blank.
+Title (max 50 characters): Topic (max 30 characters): Text cannot be blank.
+Topic (max 30 characters): Difficulty (Easy/Medium/Hard): Difficulty must be Easy, Medium or Hard.
+Difficulty (Easy/Medium/Hard): Points (10-1000): Invalid. Enter an integer from 10 to 1000.
+Points (10-1000): Time limit in seconds (1-10): Invalid. Enter an integer from 1 to 10.
+Time limit in seconds (1-10): Problem saved.
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: Problem ID (1-9999): Error: ID 1 already exists.
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: Problem ID (1-9999): Title (max 50 characters): Topic (max 30 characters): Difficulty (Easy/Medium/Hard): Points (10-1000): Time limit in seconds (1-10): Problem saved.
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: Problem ID to update: Current record:
+9999	Last Record	Math	Hard	1000	10s
+Enter replacement values (the ID remains 9999).
+New title (max 50 characters): New topic (max 30 characters): Difficulty (Easy/Medium/Hard): New points (10-1000): New time limit in seconds (1-10): Problem updated.
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: Problem ID to search: ID	Title	Topic	Level	Points	Time
+9999	Last Record Updated	Number Theory	Medium	999	9s
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: ID	Title	Topic	Level	Points	Time
+1	Boundary Problem	Arrays	Easy	10	1s
+9999	Last Record Updated	Number Theory	Medium	999	9s
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: Goodbye!

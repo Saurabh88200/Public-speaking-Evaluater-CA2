@@ -1,0 +1,34 @@
+1
+101
+Two Sum
+Arrays
+Easy
+100
+2
+1
+102
+Graph BFS
+Graphs
+Medium
+300
+3
+1
+103
+Segment Tree Queries
+Data Structures
+Hard
+800
+5
+2
+3
+102
+4
+103
+Segment Tree Range Query
+Data Structures
+Hard
+900
+4
+3
+103
+0

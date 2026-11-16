@@ -1,0 +1,28 @@
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: ID	Title	Topic	Level	Points	Time
+101	Two Sum	Arrays	Easy	100	2s
+102	Graph BFS	Graphs	Medium	300	3s
+103	Segment Tree Range Query	Data Structures	Hard	900	4s
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: Problem ID to search: ID	Title	Topic	Level	Points	Time
+103	Segment Tree Range Query	Data Structures	Hard	900	4s
+
+=== Coding Contest Problem Set Manager - CA2 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+0. Exit
+Choice: Goodbye!

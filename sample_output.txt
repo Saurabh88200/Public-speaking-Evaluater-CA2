@@ -1,0 +1,43 @@
+
+=== Coding Contest Problem Set Manager - CA3 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+5. Delete Problem
+0. Exit
+Choice: ID	Title	Topic	Level	Points	Time	Type
+101	Two Sum	Arrays	Easy	100	2s	Practice
+102	Graph BFS	Graphs	Medium	300	3s	Practice
+103	Segment Tree Range Query	Data Structures	Hard	900	4s	Challenge
+
+=== Coding Contest Problem Set Manager - CA3 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+5. Delete Problem
+0. Exit
+Choice: Problem ID to search: ID	Title	Topic	Level	Points	Time	Type
+101	Two Sum	Arrays	Easy	100	2s	Practice
+Study note: Solve for concept practice and record the approach.
+
+=== Coding Contest Problem Set Manager - CA3 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+5. Delete Problem
+0. Exit
+Choice: Problem ID to search: ID	Title	Topic	Level	Points	Time	Type
+103	Segment Tree Range Query	Data Structures	Hard	900	4s	Challenge
+Study note: Attempt under the saved time limit before reviewing the solution.
+
+=== Coding Contest Problem Set Manager - CA3 ===
+1. Add Problem
+2. View All Problems
+3. Search by ID
+4. Update Problem
+5. Delete Problem
+0. Exit
+Choice: Goodbye! Live objects: 0
